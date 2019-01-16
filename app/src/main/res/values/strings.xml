@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Running Tracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_play">Play</string>
+    <string name="title_activity">My Activity</string>
+    <string name="HomeText">Welcome to My Running Tracker</string>
+</resources>
